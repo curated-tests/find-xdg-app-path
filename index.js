@@ -43,3 +43,5 @@ const getGlobalPathConfig = () => {
     vercelDirectories[0]
   );
 };
+
+console.log(getGlobalPathConfig())
